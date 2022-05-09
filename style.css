@@ -1,0 +1,14 @@
+body {
+    background-color: darkslategrey;
+}
+
+.clock {
+    margin-top: 30vh;
+    height: 40vh;
+    font-family: sans-serif;
+    color: white;
+    font-size: 140px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
